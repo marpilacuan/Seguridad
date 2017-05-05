@@ -17,6 +17,15 @@ public class SocketServer {
         Servidor server = new Servidor();
         System.out.println("Hola");
         System.out.println("Estableciendo conexion...");
+        System.out.println("Hola");
+        System.out.println("Estableciendo conexion...");
+        System.out.println("Hola");
+        System.out.println("Estableciendo conexion...");
+        System.out.println("Hola");
+        System.out.println("Estableciendo conexion...");
+        System.out.println("Hola");
+        System.out.println("Estableciendo conexion...");
+        
         server.establecerConexion(5555);
         
     }
