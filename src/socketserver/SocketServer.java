@@ -16,6 +16,7 @@ public class SocketServer {
     public static void main(String[] args) throws IOException {
         Servidor server = new Servidor();
         System.out.println("Estableciendo conexion...");
+        System.out.println("Estableciendo conexion...");
         server.establecerConexion(5555);
         
     }
